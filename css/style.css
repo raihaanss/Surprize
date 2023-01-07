@@ -10,7 +10,7 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: black;
+    background-image: url(https://i.postimg.cc/bYHxs6kz/Whats-App-Image-2023-01-07-at-21-01-00.jpg);
 }
 .greetings{
     font-size: 6rem;
@@ -40,21 +40,6 @@ body{
 }
 .greetings > span:nth-child(5){
     animation-delay: .8s;
-}
-.greetings > span:nth-child(6){
-    animation-delay: .9s ;
-}
-.greetings > span:nth-child(7){
-    animation-delay: 1.2s ;
-}
-.greetings > span:nth-child(8){
-    animation-delay: 1.4s;
-}
-.greetings > span:nth-child(9){
-    animation-delay: 1.6s;
-}
-.greetings > span:nth-child(10){
-    animation-delay: 1.8s;
 }
 
 .description{
